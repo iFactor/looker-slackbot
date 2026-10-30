@@ -14,7 +14,7 @@
     "botkit": "0.0.15",
     "coffee-script": "^1.10.0",
     "fuzzysearch-js": "^0.2.0",
-    "get-urls": "^5.0.0",
+    "get-urls": "^12.1.0",
     "request": "^2.66.0",
     "semver": "^5.1.0",
     "stream-buffers": "^3.0.1",
